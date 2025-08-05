@@ -7,10 +7,12 @@
 	"scripts": {
 		"start": "node server.js",
 		"build": "echo 'No build step needed'"
-	},
+	},	
+	"author": "Mon Carlo Gezun",
+	"license": "MIT",
+	"description": "A boilerplate project for learning npm package.json",	
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Mon Carlo Gezun"
 }
