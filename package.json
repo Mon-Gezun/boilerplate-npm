@@ -5,10 +5,12 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node server.js",
+		"build": "echo 'No build step needed'"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"author": "Mon Carlo Gezun"
 }
